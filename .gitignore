@@ -1,0 +1,7 @@
+# gitignore for truffle projects
+build/contracts
+
+node_modules
+
+.vscode
+
